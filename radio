@@ -1,0 +1,93 @@
+{
+  "stream_url": "https://media-ssl.musicradio.com/Capital",
+  "app_name": "Play FM ",
+  "logo_url": "https://i.postimg.cc/yxqQKn20/08587957-cead-4bc1-b730-bf0f2dc5670f.png",
+  "background_url": "https://i.ibb.co/kVGkk5Cp/fundof.jpg",
+  "bg_tint_color": "#000e38",
+  "bg_tint_opacity": 0.78,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+
+"enable_tv": false,
+  "tv_url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8",
+  "tv_label": "TV Ao Vivo",
+
+ "enable_fake_listeners": true,
+  "fake_listeners_min": 20,
+  "fake_listeners_max": 2521,
+  "fake_listeners_label": "%d ouvintes hoje",
+
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://www.tendaatacado.com.br/assets/institucional/Imagem_191.png",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://aquiacontece.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-09.44.49.jpeg",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://guiasaotiago.com.br/wp-content/webp-express/webp-images/uploads/2022/05/Paulao-Artefatos-de-cimento-1024x575.jpg.webp",
+      "click_url": "https://"
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://assets.bileto.sympla.com.br/eventmanager/production/320p5ku0fodhvfsmdnmdq78tif2hs2rh18vqsmg60ehlvgk2dlfdgtsugt0714d5ha1micbrt5dbsp7995h025lv6o2ddr0fgam7a1r.webp",
+      "click_url": "https://wa.me/"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://youtube.com/"
+    }
+  ],
+
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://api.whatsapp.com/send?phone=55"
+    },
+    {
+      "icon": "instagram",
+      "url": "link "
+    },
+    {
+      "icon": "youtube",
+      "url": " link "
+    },
+    {
+      "icon": "website",
+      "url": " site aqui"
+    }
+  ]
+}
