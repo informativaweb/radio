@@ -25,8 +25,8 @@
   "tv_label": "TV Ao Vivo",
 
  "enable_fake_listeners": true,
-  "fake_listeners_min": 2,
-  "fake_listeners_max": 521,
+  "fake_listeners_min": 3,
+  "fake_listeners_max": 2373,
   "fake_listeners_label": "%d ouvintes hoje",
 
   "banners": [
