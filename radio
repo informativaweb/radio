@@ -12,21 +12,21 @@
   "enable_banners": false,
   "enable_social": true,
   "enable_recording": true,
-  "enable_timer": true,
-  "enable_volume_bar": true,
+  "enable_timer": false,
+  "enable_volume_bar": false,
   "enable_metadata": true,
   "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 7000,
-  "sponsor_label": "Colaboradores",
+  "sponsor_label": "APOIO CULTURAL",
 
 "enable_tv": false,
   "tv_url": "https://video11.logicahost.com.br/interativafm01/interativafm01/chunklist_w1032489035.m3u8",
   "tv_label": "TV Ao Vivo",
 
- "enable_fake_listeners": true,
-  "fake_listeners_min": 3,
-  "fake_listeners_max": 2373,
+ "enable_fake_listeners": false,
+  "fake_listeners_min": 20,
+  "fake_listeners_max": 2521,
   "fake_listeners_label": "%d ouvintes hoje",
 
   "banners": [
