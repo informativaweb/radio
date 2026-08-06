@@ -5,7 +5,7 @@
   "background_url": "https://i.ibb.co/kVGkk5Cp/fundof.jpg",
   "bg_tint_color": "#000e38",
   "bg_tint_opacity": 0.78,
-  "live_badge_text": " Ao Vivo",
+  "live_badge_text": "NO AR",
   "live_badge_color": "#09001d",
   "accent_color": "#000d13",
   "autoplay": true,
@@ -75,19 +75,19 @@
   "social_icons": [
     {
       "icon": "whatsapp",
-      "url": "https://api.whatsapp.com/send?phone=55"
+      "url": "https://api.whatsapp.com/send?1=pt_BR&phone=5517997539649&text=Olá%20Rádio%20Informativa%20Web!"
     },
     {
       "icon": "instagram",
-      "url": "link "
+      "url": "https://www.instagram.com/informativaweb/"
     },
     {
       "icon": "youtube",
-      "url": " link "
+      "url": "https://youtube.com/@radioinformativabarretos?si=dQrL3P8c9XzJpyc0"
     },
     {
       "icon": "website",
-      "url": " site aqui"
+      "url": "https://radioinformativaweb.com.br/"
     }
   ]
 }
