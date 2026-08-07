@@ -36,7 +36,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.ibb.co/VcRdfMLM/banner-apoio-cultural-ktrato.jpg",
-      "click_url": "https://api.whatsapp.com/send?1=pt_BR&phone=5517991258398&text=Olá%20Ouvi%20seu%20anúncio%20na%20Rádio%20Informativa%20Web"
+      "click_url": "https://api.whatsapp.com/send?1=pt_BR&phone=5517991258398&text=Olá,%20ouvi%20seu%20anúncio%20na%20Rádio%20Informativa%20Web"
     },
     {
       "title": "PATROCINADOR 2",
@@ -44,7 +44,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.ibb.co/gLs71YqQ/banner-apoio-cultural-hucksound.jpg",
-      "click_url": "https://api.whatsapp.com/send?1=pt_BR&phone=5517991195900&text=Olá%20Ouvi%20seu%20anúncio%20na%20Rádio%20Informativa%20Web"
+      "click_url": "https://api.whatsapp.com/send?1=pt_BR&phone=5517991195900&text=Olá,%20ouvi%20seu%20anúncio%20na%20Rádio%20Informativa%20Web"
     },
     {
       "title": "",
