@@ -35,32 +35,19 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://www.tendaatacado.com.br/assets/institucional/Imagem_191.png",
-      "click_url": " "
+      "image_url": "https://i.ibb.co/5WDM3swL/banner-apoio-cultural-ktrato.jpg",
+      "click_url": "https://api.whatsapp.com/send?1=pt_BR&phone=5517991258398&text=Olá%20Ouvi%20seu%20anúncio%20na%20Rádio%20Informativa%20Web"
     },
     {
       "title": "PATROCINADOR 2",
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://aquiacontece.com.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-08-at-09.44.49.jpeg",
-      "click_url": ""
+      "image_url": "https://i.ibb.co/q48gvxw/banner-apoio-cultural-hucksound.jpg",
+      "click_url": "https://api.whatsapp.com/send?1=pt_BR&phone=5517991195900&text=Olá%20Ouvi%20seu%20anúncio%20na%20Rádio%20Informativa%20Web"
     },
     {
-      "title": "PATROCINADOR 3",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://guiasaotiago.com.br/wp-content/webp-express/webp-images/uploads/2022/05/Paulao-Artefatos-de-cimento-1024x575.jpg.webp",
-      "click_url": "https://"
-    },
-    {
-      "title": "PATROCINADOR 4",
-      "subtitle": "Clique e fale no WhatsApp",
-      "bg_color": "#FDCB03",
-      "text_color": "#000000",
-      "image_url": "https://assets.bileto.sympla.com.br/eventmanager/production/320p5ku0fodhvfsmdnmdq78tif2hs2rh18vqsmg60ehlvgk2dlfdgtsugt0714d5ha1micbrt5dbsp7995h025lv6o2ddr0fgam7a1r.webp",
-      "click_url": "https://wa.me/"
+      "title": 
     },
     {
       "title": "",
