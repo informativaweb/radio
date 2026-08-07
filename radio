@@ -35,7 +35,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/VcRdfMLM/banner-apoio-cultural-ktrato.jpg",
+      "image_url": "https://i.ibb.co/4Zs92rJT/base-banner-apoio-cultural-kitrato.jpg",
       "click_url": "https://api.whatsapp.com/send?1=pt_BR&phone=5517991258398&text=Olá,%20ouvi%20seu%20anúncio%20na%20Rádio%20Informativa%20Web"
     },
     {
@@ -43,7 +43,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/gLs71YqQ/banner-apoio-cultural-hucksound.jpg",
+      "image_url": "https://i.ibb.co/b5cdjXtk/base-banner-apoio-cultural-hucksound.jpg",
       "click_url": "https://api.whatsapp.com/send?1=pt_BR&phone=5517991195900&text=Olá,%20ouvi%20seu%20anúncio%20na%20Rádio%20Informativa%20Web"
     },
     {
@@ -51,7 +51,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/7x2hYQyR/banner-apoio-cultural-imperial.jpg",
+      "image_url": "https://i.ibb.co/5WdZnnLz/base-banner-apoio-cultural-imperial.jpg",
       "click_url": "https://api.whatsapp.com/send?1=pt_BR&phone=5517996034390&text=Olá,%20ouvi%20seu%20anúncio%20na%20Rádio%20Informativa%20Web"
     }
   ],
