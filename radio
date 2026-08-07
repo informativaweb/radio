@@ -47,12 +47,12 @@
       "click_url": "https://api.whatsapp.com/send?1=pt_BR&phone=5517991195900&text=Olá,%20ouvi%20seu%20anúncio%20na%20Rádio%20Informativa%20Web"
     },
     {
-      "title": "",
-      "subtitle": "",
-      "bg_color": "#111111",
-      "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://youtube.com/"
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/7x2hYQyR/banner-apoio-cultural-imperial.jpg",
+      "click_url": "https://api.whatsapp.com/send?1=pt_BR&phone=5517996034390&text=Olá,%20ouvi%20seu%20anúncio%20na%20Rádio%20Informativa%20Web"
     }
   ],
 
